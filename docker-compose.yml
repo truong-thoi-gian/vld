@@ -1,0 +1,5 @@
+version: '3'
+services:
+  memcached:
+    image: "truongthoigian/php_vld"
+    build: ./
